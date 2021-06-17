@@ -8,6 +8,5 @@ def selctionSort(list):
 
 
 A = [64, 25, 12, 22, 11]
-b = [20, 12, 10, 15, 2]
-selctionSort(b)
-print(b)
+selctionSort(A)
+print(A)
